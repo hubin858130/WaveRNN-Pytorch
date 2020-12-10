@@ -1,5 +1,5 @@
 # WaveRNN-Pytorch
-This repository is a fork of Fatcord's [wqt2019/WaveRNN-Pytorch](https://github.com/wqt2019/WaveRNN-Pytorch) WaveRNN implementation. 
+This repository is a fork of [wqt2019/WaveRNN-Pytorch](https://github.com/wqt2019/WaveRNN-Pytorch) WaveRNN implementation. 
 The original model has been significantly simplified to allow real-time synthesis of high fidelity speech. This repository
 also contains a C++ library that can be used for real-time speech synthesis on a single CPU core. 
 
